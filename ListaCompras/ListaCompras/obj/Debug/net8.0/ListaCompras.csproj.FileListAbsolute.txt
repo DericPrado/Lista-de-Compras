@@ -1,0 +1,14 @@
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\bin\Debug\net8.0\ListaCompras.exe
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\bin\Debug\net8.0\ListaCompras.deps.json
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\bin\Debug\net8.0\ListaCompras.runtimeconfig.json
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\bin\Debug\net8.0\ListaCompras.dll
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\bin\Debug\net8.0\ListaCompras.pdb
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.AssemblyInfoInputs.cache
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.AssemblyInfo.cs
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.csproj.CoreCompileInputs.cache
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.dll
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\refint\ListaCompras.dll
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.pdb
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ListaCompras.genruntimeconfig.cache
+C:\Users\Deric\Desktop\ProjetosGit\Lista-de-Compras\ListaCompras\ListaCompras\obj\Debug\net8.0\ref\ListaCompras.dll
