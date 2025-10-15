@@ -8,9 +8,10 @@
             string nome = string.Empty;
             decimal valorProduto = 0m;
             decimal total = 0m;
+            bool continua = true;
 
-            Console.WriteLine("INFORME OS 3 PRODUTOS DA SUA LISTA DE COMPRAS!");
-            while(listaCompras.Count < 3)
+            Console.WriteLine("INFORME OS PRODUTOS DA SUA LISTA DE COMPRAS!");
+            while(continua)
             {
                 Console.WriteLine("DIGITE O NOME DO PRODUTO: ");
                 nome = Console.ReadLine().ToUpper();
@@ -18,8 +19,16 @@
                 valorProduto = Convert.ToDecimal(Console.ReadLine());
                 Console.Clear();
 
-                Produto produto = new Produto(nome, valorProduto);
+                Produto produto = new Produto(nome, Decimal.Round(valorProduto, 2));
                 listaCompras.Add(produto);
+
+                Console.WriteLine("DESEJA ADICIONAR MAIS ALGUM PRODUTO? (S/N)");
+                string resposta = Console.ReadLine().ToUpper();
+                if (resposta == "N")
+                {
+                    continua = false;
+                }
+                Console.Clear();
             }
 
             Console.WriteLine("--- LISTA DE COMPRAS ---");
